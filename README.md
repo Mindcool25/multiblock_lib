@@ -8,6 +8,9 @@ This mod provides a way to register multiblock structures, and when a structure 
 ## Docs
 Minimal right now, check example folder for some simple stuff for now
 
+### Example structure in game
+![multiblock\_lib](https://github.com/Mindcool25/multiblock_lib/blob/main/examples/big_furnace.png)
+
 ## TODO
 - [ ] Double checking for bugs
 - [ ] Better docs
