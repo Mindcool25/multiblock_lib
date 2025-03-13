@@ -1,0 +1,1 @@
+multiblocklib_testing_structure_enabled (enable test structure) bool false
